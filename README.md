@@ -37,15 +37,15 @@ This project implements a **Vocal Authentication System** that identifies and au
 - **Healthcare**: Secure patient data access by healthcare professionals using voice verification.
 
 ## Challenges Addressed
-    - **Noise Robustness**:
-        The model incorporates noise in the training phase to handle different levels of background interference, such as office sounds, street noise, or chatter,         ensuring accuracy even in suboptimal conditions.
-        
-    - **Scalability**:
-        The system can be scaled to support hundreds or even thousands of speakers with minimal degradation in performance, making it suitable for large 
-        organizations.
-        
-    - **Real-Time Performance**:
-        The model is designed to provide near real-time predictions, making it suitable for live environments where quick decisions are critical.
+
+- **Noise Robustness**:
+The model incorporates noise in the training phase to handle different levels of background interference, such as office sounds, street noise, or chatter, ensuring accuracy even in suboptimal conditions.
+
+- **Scalability**:
+The system can be scaled to support hundreds or even thousands of speakers with minimal degradation in performance, making it suitable for large organizations.
+
+- **Real-Time Performance**:
+The model is designed to provide near real-time predictions, making it suitable for live environments where quick decisions are critical.
 
 ## Future Improvements
 While the current system is highly effective in voice recognition and authentication, there are several avenues for future improvement:
