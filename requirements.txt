@@ -1,0 +1,6 @@
+numpy == 1.26.4
+tensorflow == 2.16.1
+plotly == 5.20.0
+keras == 3.3.3
+librosa == 0.10.2.post1
+matplotlib == 3.7.5
