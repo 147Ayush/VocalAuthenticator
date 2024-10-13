@@ -102,14 +102,8 @@ Feel free to contribute to this project by opening issues or submitting pull req
 
 ---
 
-## **License**
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
 ## **Author**
 
-- [Your Name]
+- Ayush soni
 
 ---
